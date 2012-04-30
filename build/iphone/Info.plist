@@ -14,7 +14,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>5NPJ2Z3MLM.com.austinandjennifer.sweetBrown</string>
+			<string>com.austinandjennifer.sbApp</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>sweetbrown</string>
@@ -23,7 +23,7 @@
 		</dict>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>5NPJ2Z3MLM.com.austinandjennifer.sweetBrown</string>
+	<string>com.austinandjennifer.sbApp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -33,9 +33,9 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.1334888787</string>
+	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1334888787</string>
+	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
         <key>CFBundleIconFiles</key>

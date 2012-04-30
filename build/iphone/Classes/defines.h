@@ -6,7 +6,8 @@
 #define USE_TI_PLATFORM
 #define USE_TI_UI
 #define USE_TI_API
-#define USE_TI_VERSION
+#define USE_TI_VERSION<1
+#define USE_TI_VERSION<18
 #define USE_TI_PLATFORMOSNAME
 #define USE_TI_UITABGROUP
 #define USE_TI_UIWINDOW

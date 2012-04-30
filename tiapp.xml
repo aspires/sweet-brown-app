@@ -14,7 +14,7 @@
         <target device="blackberry">false</target>
     </deployment-targets>
     <sdk-version>2.0.1.GA2</sdk-version>
-    <id>5NPJ2Z3MLM.com.austinandjennifer.sweetBrown</id>
+    <id>com.austinandjennifer.sbApp</id>
     <name>Sweet Brown</name>
     <version>1.0</version>
     <publisher>Austin Spires</publisher>
